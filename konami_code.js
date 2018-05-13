@@ -37,5 +37,5 @@ function konami(e){
 
 function init() {
   // your code here
-  document.body.addEventListener('keydown', konami());
+  document.body.addEventListener('keydown', konami);
 }
